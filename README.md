@@ -5,6 +5,7 @@ Hi, I'm Anjali.
 I am a 3rd-year Computer Engineering student learning Python from scratch.
 
 My goal is to:
+
 - Master Python Programming
 - Learn Data Structures and Algorithms
 - Learn Machine Learning and AI
@@ -26,6 +27,7 @@ My goal is to:
 ## Daily Progress
 
 ### Day 01
+
 - Variables
 - Data Types
 - Input/Output
@@ -34,6 +36,7 @@ My goal is to:
 - f-Strings
 
 ### HackerRank
+
 - Hello World
 - Python Arithmetic Operators
 
@@ -58,4 +61,4 @@ Python-Journey
 
 ## Connect With Me
 
-GitHub: [AnjaliKMistry]
+GitHub: [AnjaliKMistry](Anjali Mistry)
