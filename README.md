@@ -61,4 +61,4 @@ Python-Journey
 
 ## Connect With Me
 
-GitHub: [AnjaliKMistry](Anjali Mistry)
+GitHub: [AnjaliKMistry](https://github.com/AnjaliKMistry)
