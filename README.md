@@ -1,63 +1,35 @@
 # Python Journey 🚀
 
-Hi, I'm Anjali.
+Hi, I'm Anjali, a Computer Engineering student passionate about Python, Machine Learning, and Artificial Intelligence.
 
-I am a 3rd-year Computer Engineering student learning Python from scratch.
+This repository documents my journey of learning Python from beginner to advanced level through coding practice, problem-solving, HackerRank challenges, and real-world projects.
 
-My goal is to:
+## What You'll Find Here
 
-- Master Python Programming
-- Learn Data Structures and Algorithms
-- Learn Machine Learning and AI
-- Get a Python/AIML Internship
+- Python Fundamentals
+- Object-Oriented Programming
+- File Handling & Exception Handling
+- Data Structures & Algorithms
+- HackerRank Solutions
+- NumPy & Pandas
+- Data Visualization
+- Machine Learning Projects
+- AI & Deep Learning Projects
 
-## Learning Plan
+## Goal
 
-- Python Basics
-- Object Oriented Programming
-- File Handling
-- Exception Handling
-- Data Structures
+To build strong Python programming skills, develop AI/ML projects, and prepare for Python and AIML internship opportunities.
+
+## Tools & Technologies
+
+- Python
+- Git & GitHub
+- VS Code
+- HackerRank
 - NumPy
 - Pandas
 - Matplotlib
-- Machine Learning
-- Deep Learning
-
-## Daily Progress
-
-### Day 01
-
-- Variables
-- Data Types
-- Input/Output
-- Type Conversion
-- Comments
-- f-Strings
-
-### HackerRank
-
-- Hello World
-- Python Arithmetic Operators
-
-## Tools
-
-- Python
-- VS Code
-- Git
-- GitHub
-- HackerRank
-
-## Repository Structure
-
-```text
-Python-Journey
-│
-├── Day01
-├── Day02
-├── HackerRank
-└── README.md
-```
+- Scikit-Learn
 
 ## Connect With Me
 
